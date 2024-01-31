@@ -6,6 +6,7 @@ public class firstJavaCode{
         
         float input = sc.nextFloat();
         System.out.print(input);
+        System.out.print("SOMU");
        
         
     }
